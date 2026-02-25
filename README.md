@@ -1,6 +1,12 @@
 # Feature Selection with Naive Bayes on TinyMNIST
 ### Forward Selection vs Backward Elimination for Feature Conditioning
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-orange?logo=numpy)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?logo=plotly)
+![Status](https://img.shields.io/badge/status-completed-success)
+
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60">
