@@ -163,7 +163,7 @@ Includes plots for:
 
 ## Project Structure
 
-
+```text
 Naive-Bayes-Feature-Selection-TinyMNIST/
 │
 ├── Soal7_ml.ipynb
@@ -175,7 +175,7 @@ Naive-Bayes-Feature-Selection-TinyMNIST/
 │ └── feature_visualization.png
 │
 └── README.md
-
+```
 
 ---
 
