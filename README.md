@@ -184,7 +184,7 @@ Naive-Bayes-Feature-Selection-TinyMNIST/
 ### Clone repository
 
 
-git clone https://github.com/YOUR_USERNAME/Naive-Bayes-Feature-Selection-TinyMNIST
+git clone https://github.com/bhzadjnty7/Naive-Bayes-Feature-Selection-TinyMNIST
 
 
 ---
