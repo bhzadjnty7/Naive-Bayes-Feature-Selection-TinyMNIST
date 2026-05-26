@@ -263,3 +263,9 @@ GitHub: [https://github.com/bhzadjnty7](https://github.com/bhzadjnty7)
 MIT License
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+---
+
+## ⭐️ Support
+
+If you find this repository useful, consider giving it a ⭐️
